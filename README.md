@@ -1,1 +1,1 @@
-# Covid-19-vaccination-management-system
+# covid-19 vaccination management system
